@@ -1,2 +1,1 @@
-# studyGit
-VladilenMinin
+Studing GitHub with the help of VladilenMinin
